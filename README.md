@@ -1,4 +1,4 @@
-# Histopath Histopathologic Cancer Detection logic
+#  Histopathologic Cancer Detection 
 
 ## Introduction
 Metastasis is the spread of cancer cells to new areas of the body, often by way of the lymph
