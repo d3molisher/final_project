@@ -26,3 +26,6 @@ that the examples of the separate categories are divided by a clear gap that is 
 possible. New examples say testing data are then mapped into that same space and put to
 prediction to obtain the analysis done using the model and the data is placed accordingly based
 on which side of the gap they fall.
+
+## Author
+**Kavya Jain** - d3molisher
