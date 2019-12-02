@@ -51,7 +51,7 @@ on which side of the gap they fall.
 1. Only a part of dataset has been picked up from the original dataset on kaggle: https://www.kaggle.com/c/histopathologic-cancer-detection/data. The original dataset include :
   * Train data of 2.2m images
   * Test data of about 57k
-  ![GitHub Logo](/output/data description.png)
+   The data processed by the code can be seen in output --> data description.png . It clearly shows the data and the label associated with it.
  
  ## Results
  * The result can be seen output --> submission.csv and AUC.png
