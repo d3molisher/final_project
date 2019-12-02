@@ -41,7 +41,7 @@ on which side of the gap they fall.
 1. Clone the repo 
 2. Putting the required files in required directories
     * train file in directory: data/train/
-    * test file in directory: data/test/ [if needed to, optional]
+    * test file in directory: data/test/
     * **The data files in this repo are a part of samples, might not provide the correct output. Download the actual dataset from the links given ahead.**
 3. Run the model
 4. check the output file for the submission.csv
@@ -49,7 +49,7 @@ on which side of the gap they fall.
 
 ## Dataset on github
 1. Only a part of dataset has been picked up from the original dataset on kaggle: https://www.kaggle.com/c/histopathologic-cancer-detection/data. The original dataset include :
-  * Train dagta of 2.2m images
+  * Train data of 2.2m images
   * Test data of about 57k
  
  ## Results
@@ -57,7 +57,7 @@ on which side of the gap they fall.
   * AUC.png provides us with the knowledge of classifier being used is good or bad
   * The AUC score obtained is 0.986
   
- ## The actual code was run on the kaggle kernel and runtime for whole program depends on the Number of epochs in the code. I have used 2 epoches and the total runtime for the code is abouts 5hrs.
+ ## The actual code was run on the kaggle kernel for the reason that, we do not have to download the dataset and upload it, and runtime for whole program depends on the Number of epochs in the code. I have used 2 epoches and the total runtime for the code is abouts 5hrs.
  
  
 ## Author
